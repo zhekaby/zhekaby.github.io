@@ -22,7 +22,7 @@ export default function ThemePortrait({
     <span className={`theme-portrait ${className}`}>
       {/* biome-ignore lint/performance/noImgElement: Using native img to avoid next/image runtime overhead for static export */}
       <img
-        src="/images/me.svg"
+        src="/images/me.png"
         alt="Evgenij Zabolotskih"
         width={width}
         height={height}

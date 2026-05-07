@@ -61,20 +61,20 @@ export const metadata: Metadata = {
     description: siteDescription,
     images: [
       {
-        url: '/images/me.svg',
-        width: 1200,
-        height: 630,
+        url: '/images/me.png',
+        width: 500,
+        height: 500,
         alt: AUTHOR_NAME,
       },
     ],
   },
   twitter: {
-    card: 'summary_large_image',
+    card: 'summary',
     site: TWITTER_HANDLE,
     creator: TWITTER_HANDLE,
     title: AUTHOR_NAME,
     description: siteDescription,
-    images: ['/images/me.svg'],
+    images: ['/images/me.png'],
   },
   robots: {
     index: true,

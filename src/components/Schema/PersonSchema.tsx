@@ -11,7 +11,7 @@ export default function PersonSchema() {
     '@type': 'Person',
     name: AUTHOR_NAME,
     url: SITE_URL,
-    image: `${SITE_URL}/images/me.svg`,
+    image: `${SITE_URL}/images/me.png`,
     jobTitle: currentJob.position,
     sameAs: ['https://www.linkedin.com/in/zhekaby'],
     worksFor: {
