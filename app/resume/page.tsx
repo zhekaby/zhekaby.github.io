@@ -31,7 +31,7 @@ export default function ResumePage() {
             access-control product for enterprise AI. Concurrently co-founder of{' '}
             <a href="https://ice-markets.com">ICE Markets Ltd</a> since 2015, an
             FX / crypto broker in its 11th year of continuous operation.
-            Designer and architect of{' '}
+            Sole architect of{' '}
             <a href="https://cryptocopy.org">cryptocopy.org</a> (2024).
           </p>
         </header>
